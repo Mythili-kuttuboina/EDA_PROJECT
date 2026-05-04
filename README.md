@@ -45,3 +45,8 @@ Visualizations Included
 
  Conclusion
 The project demonstrates how EDA helps transform raw data into actionable insights using Python-based analytics and visualization techniques.
+
+Installation and Setup
+---
+1.Clone the repository:
+    git clone https://github.com/mythili-kuttuboina/EDA_PROJECT.git
